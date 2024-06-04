@@ -1,5 +1,11 @@
 # Born2beroot
 
+100/100
+
+Validated on 03/06/2024
+
+## Notes
+
 `sudo adduser username`
 
 `sudo addgroup groupname`
