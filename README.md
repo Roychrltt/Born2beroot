@@ -1,10 +1,10 @@
 # Born2beroot
 
->sudo adduser <username>
+'sudo adduser <username>'
 
->sudo addgroup <groupname>
+'sudo addgroup <groupname>'
 
->sudo adduser <username> <groupname>
+'sudo adduser <username> <groupname>'
 (add xiaxu to sudo and user42)
 
 >getent group <groupname>
