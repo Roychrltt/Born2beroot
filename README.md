@@ -1,25 +1,25 @@
 # Born2beroot
 
-'sudo adduser username'
+`sudo adduser username`
 
-'sudo addgroup groupname'
+`sudo addgroup groupname`
 
-'sudo adduser xiaxu user42'
+`sudo adduser xiaxu user42`
 (add xiaxu to user42)
 
-'getent group groupname'
+`getent group groupname`
 (check if group created successfully)
 
-'groups username'
+`groups username`
 (to show the groups the user belongs to)
 
-'id username'
+`id username`
 (provides more detailed information)
 
-'sudo apt update'
+`sudo apt update`
 (update the system)
 
-'sudo apt install openssh-server'
+`sudo apt install openssh-server`
 (install openSSH)
 
 'sudo service ssh status'
