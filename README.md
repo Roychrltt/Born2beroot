@@ -4,6 +4,8 @@
 
 Validated on 03/06/2024
 
+Hours inversted: around 30h
+
 ## Notes
 
 `sudo adduser username`
